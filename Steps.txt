@@ -1,0 +1,10 @@
+1) Instalar o flask e montar a rota BEU_IO
+2) Instalar o flask_restx
+3) Criar diretório Server + arquivo instance.py
+4) Criar Classe Server
+5) Criar pasta controllers dentro de src e criar o endpoint books.py
+6) Criar a classe BookList
+7) Reescrever o main.py importanto o Server do instance
+8) Importar os controllers para dentro do main.py
+9) Implementar documentação
+10) Inclusão de parâmetros na DOC

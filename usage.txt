@@ -1,0 +1,4 @@
+set FLASK_APP=hello.py
+$env:FLASK_APP = "hello.py"
+flask run
+
